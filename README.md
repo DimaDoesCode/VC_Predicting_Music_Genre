@@ -31,7 +31,7 @@ For classification, metrics include Accuracy, Precision, Recall, and F1 score. A
 
 ---
 
-<a href="https://github.com/DimaDoesCode/VC_Predicting_Music_Genre/blob/master/music_genre_baseline_v.0.9.ipynb"> To view the Jupyter Notebook code of the BaseLine research, click on this link.</a>
+<a href="https://github.com/DimaDoesCode/VC_Predicting_Music_Genre/blob/master/music_genre_baseline_v.0.9.ipynb"> To view the Jupyter Notebook code of the BaseLine research, click on this link.</a><br>
 <a href="https://github.com/DimaDoesCode/VC_Predicting_Music_Genre/blob/master/music_genre_transfer_learning_v.0.4.ipynb"> To view the Jupyter Notebook code of the Transfer Learned ResNet50 model research, click on this link.</a><br>
 
 <br>
