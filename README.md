@@ -3,7 +3,7 @@
 
 <b>Project Description</b>
 
-<img src="https://github.com/DimaDoesCode/VC_Predicting_Music_Genre/blob/master/predicting_genre.png" width="200" height="200" align="left"/>
+<img src="https://github.com/DimaDoesCode/VC_Predicting_Music_Genre/blob/master/predicting_genre.jpeg" width="200" height="200" align="left"/>
 
 This is a pet project aimed at practicing skills, acquiring new ones, and spending time in an engaging manner. It's evident that the design of a music album is somehow related to its content. But how closely? How can we confirm this based on data? And how could this be beneficial?
 <br><br>
